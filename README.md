@@ -11,9 +11,9 @@ The function should increase \( M \) by the number \( N \), meaning that \( L \)
 
 The number 9994 is represented by the list \( L \), where the digits appear as follows:
 
-\( [9] \rightarrow [9] \rightarrow [9] \rightarrow [4] \)
+( [9]  [9]  [9]  [4] )
 
 After adding 18, the list \( L \) should look like this:
 
-\( [1] \rightarrow [0] \rightarrow [0] \rightarrow [1] \rightarrow [2] \)
+( [1]  [0]  [0]  [1]  [2] )
 
